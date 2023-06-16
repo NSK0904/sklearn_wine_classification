@@ -7,7 +7,7 @@ Learn to select the parameters of the classification algorithms, to evaluate tra
 
 # Task
 
-Train classifiers and evaluate their performance. Test the following scikitlearn library classifiers:
+Train classifiers and evaluate their performance. Test the following scikit-learn library classifiers:
 1. Decision Tree
 2. Random Forest
 3. Support Vector Machines
